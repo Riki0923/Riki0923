@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Riki0923
-- 👀 I’m interested in  Solidity, React.Js mainly, but anything 
+- 👀 I’m interested in  Solidity, React.Js mainly, but anything else that relates to programming now I am eager to learn.. 
 - 🌱 I’m currently learning Solidity Smart Contract Programming, Chainlink, Ethereum Game Programming, React.Js...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bartariki@gmail.com
